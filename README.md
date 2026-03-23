@@ -14,10 +14,10 @@ login.html
 
 feature/login - .gitignore,
 index.html, 
-login.html
+login.html,
+kokochanel.html
 
 miniturk - .gitignore,
 index.html, 
 login.thml,
 xoxo1.html,
-kokochanel.html
