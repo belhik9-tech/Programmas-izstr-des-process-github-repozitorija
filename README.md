@@ -6,3 +6,18 @@ Uzdevums priekšmētā Programmas izstrādes Process
 Master - .gitignore,
 index.html,
 login.html,
+
+67 - .gitignore, 
+xxx.html, 
+index.html,  
+login.html
+
+feature/login - .gitignore,
+index.html, 
+login.html
+
+miniturk - .gitignore,
+index.html, 
+login.thml,
+xoxo1.html,
+kokochanel.html
